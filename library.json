@@ -20,6 +20,7 @@
   "license": "MIT",
   "homepage": "https://pawn-games.itch.io/",
   "dependencies": {
+    "https://github.com/jmtstorres/esp32-wrp-i2c.git"
   },
   "frameworks": "espidf",
   "platforms": "espressif32"
